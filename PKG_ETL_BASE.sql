@@ -3,6 +3,7 @@ prompt Created by wangwei on 2018Äê9ÔÂ3ÈÕ
 set define off
 spool PKG_ETL_BASE.log
 
+
 prompt
 prompt Creating table ETL_TB_OBJECT_HIS
 prompt ================================
